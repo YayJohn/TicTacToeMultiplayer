@@ -7,8 +7,6 @@ Make sure to open port 6010 on the Server Browser's Router if the Users are not 
 
 The Users can start the game by running MainMenu.py
 
-(not ideal I know, but I made this game a long time ago :)
-
 ## Screenshots
 
 Opening the ServerBrowser:
